@@ -2,7 +2,9 @@
 
 *Note: I have not written $schemas before so much will probably be improvable*
 
-Use any of the `*hdl_checker.config` to try the schema out. Please report any weird behaviour 
+## How to use
+Clode to a VS Code work area open `*hdl_checker.config` and write a config as usually. `ctrl+space` for probosals. Hover for more info etc. 
+
 
 ### TODO:
 - [ ] Abstract `vhdl`, `verilog` and `systemverilog` as there content is quite similar
