@@ -3,7 +3,7 @@
 *Note: I have not written $schemas before so much will probably be improvable*
 
 ## How to use
-Clode to a VS Code work area open `*hdl_checker.config` and write a config as usually. `ctrl+space` for probosals. Hover for more info etc. 
+Clone to a VS Code work area open `*hdl_checker.config` and write a config as usually. `ctrl+space` for probosals. Hover for more info etc. 
 
 
 ### TODO:
